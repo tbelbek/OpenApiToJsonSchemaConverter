@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenApiToJsonSchemaConverter", "OpenApiToJsonSchemaConverter\OpenApiToJsonSchemaConverter.csproj", "{ADAE6E7E-A011-41E9-9E44-594E4A5CAC21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertExample", "ConvertExample\ConvertExample.csproj", "{1F484195-AD12-49FA-9AF1-DE7FB797DC11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADAE6E7E-A011-41E9-9E44-594E4A5CAC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAE6E7E-A011-41E9-9E44-594E4A5CAC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAE6E7E-A011-41E9-9E44-594E4A5CAC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAE6E7E-A011-41E9-9E44-594E4A5CAC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F484195-AD12-49FA-9AF1-DE7FB797DC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F484195-AD12-49FA-9AF1-DE7FB797DC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F484195-AD12-49FA-9AF1-DE7FB797DC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F484195-AD12-49FA-9AF1-DE7FB797DC11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F987FC03-084A-41D9-B921-57F69A4AF690}
+	EndGlobalSection
+EndGlobal
