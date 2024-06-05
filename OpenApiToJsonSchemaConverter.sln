@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenApiToJsonSchemaConverte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertExample", "ConvertExample\ConvertExample.csproj", "{1F484195-AD12-49FA-9AF1-DE7FB797DC11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenApiToJsonSchemaConverter.Tests", "OpenApiToJsonSchemaConverter.Tests\OpenApiToJsonSchemaConverter.Tests.csproj", "{58995AA7-FF7B-474E-A0FB-1A67BA690C9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1F484195-AD12-49FA-9AF1-DE7FB797DC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F484195-AD12-49FA-9AF1-DE7FB797DC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F484195-AD12-49FA-9AF1-DE7FB797DC11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58995AA7-FF7B-474E-A0FB-1A67BA690C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58995AA7-FF7B-474E-A0FB-1A67BA690C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58995AA7-FF7B-474E-A0FB-1A67BA690C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58995AA7-FF7B-474E-A0FB-1A67BA690C9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,7 +12,7 @@ using Newtonsoft.Json.Linq;
 
 namespace OpenApiToJsonSchemaConverter
 {
-    internal class OpenApiSchemaToJsonSchema
+    public class OpenApiSchemaToJsonSchema
     {
         private static readonly List<string> _notSupported = new List<string>
                                                                  {
